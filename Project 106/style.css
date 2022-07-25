@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background:bisque ;
+}
+
+.header_div {
+    background: burlywood;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-shadow: 2px;
+}
